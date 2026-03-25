@@ -43,4 +43,4 @@ Identified opportunities for revenue growth and cost optimization
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Ecommerce_Dashboard.png)
